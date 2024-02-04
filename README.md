@@ -28,7 +28,7 @@ NumPy is a fundamental package for scientific computing in Python. In this proje
 ### - Ultralytics:
 Ultralytics is a computer vision library that facilitates easy integration with YOLOv8 for training and inference. It streamlines the process of working with YOLO models.
 
-[Ultralytics GitHub repository](https://github.com/ultralytics/yolov3)
+[Ultralytics GitHub repository](https://github.com/ultralytics/ultralytics)
 
 ### - Custom Tracker:
 The custom tracking module plays a crucial role in maintaining object identities across frames, ensuring a smooth and consistent counting process.
