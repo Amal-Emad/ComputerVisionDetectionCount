@@ -125,7 +125,7 @@ while True:
     # Draw a white rectangle as background
     cv2.rectangle(frame, (890, 480 - 20), (890 + 150, 480 + 10), (255, 255, 255), -1)
 
-    # Add text with a blue color
+    
     cv2.putText(frame, str('AMAL-Camera'), (890, 480), cv2.FONT_HERSHEY_COMPLEX, 0.6, COLOR_BLUE, 1)
 
 
