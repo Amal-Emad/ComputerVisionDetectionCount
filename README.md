@@ -44,6 +44,8 @@ The project involves defining two distinct areas, namely Area 1 and Area 2, with
 ## 5. Demo Overview:
 
 - **People Counting using YOLOv8 - Test Video**
+
+  
   [![People Counting Demo Gif](vid/TEST1-gif.gif)](vid/TEST1.mp4)
 
 ## 6. Future Development:
